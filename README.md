@@ -7,14 +7,6 @@
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Ily-es01&color=blueviolet&style=flat-square&label=VISITEURS)
 
-```
-⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
-  Créateur de mondes numériques où
-  l'art et le code fusionnent pour former
-  des expériences uniques
-⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
-```
-
 </div>
 
 ## 📊 MES STATISTIQUES GITHUB
