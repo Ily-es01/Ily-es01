@@ -1,8 +1,9 @@
+# <div align="center">👨‍💻 Ilyes | étudiant d'informatique</div>
+
 <div align="center">
   
-# ⚡️ ILYES | CODE ARCHITECT ⚡️
-
-[![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F73D89&center=true&vCenter=true&width=600&lines=Bienvenue+dans+mon+laboratoire+de+code;Full+Stack+Developer;Web+et+Software+Engineer)](https://github.com/Ily-es01)
+  <!-- Bannière animée -->
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+mon+profil+GitHub;Étudiant+en+Génie+Informatique;Passionné+de+Robotique+et+Développement&center=true&width=500&height=50&color=f75c7e)
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Ily-es01&color=blueviolet&style=flat-square&label=VISITEURS)
 
@@ -26,20 +27,6 @@
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ily-es01&theme=radical)
 </div>
-
-## ✨ CODEX PERSONALIS
-
-```
-                     ▄▄                         ▄▄                     
-  ▀████▄     ▄████▀ ▀███                       ████                    
-    ████    ████     ██                        ▀▀▀                     
-    █ ██   ▄█ ██     ██      ▄██▀██▄  ▄▄█▀██  ████  ▄██▀███  ▄▄█▀██▄   
-    █  ██  █▀ ██     ██     ██▀   ▀██▄█▀   ██  ██  ██    ██ ██▀   ▀██  
-    █  ██▄█▀  ██     ██     ██     █████▄▄▄▄▄  ██  ▀█████▀  ██     ██  
-    █  ▀██▀   ██     ██     ██▄   ▄████       ▄██▄ ██   █   ██▄   ▄██  
-    █   ▀▀    ██    ▄████▄   ▀█████▀ ▀████▀   ▀███▀▀████▀    ▀█████▀   
-   ▄█▄       ▄██▄                                                      
-```
 
 ## 🧠 PHILOSOPHIE DE CODE
 
