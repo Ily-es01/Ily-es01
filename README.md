@@ -20,19 +20,8 @@
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ily-es01&theme=radical)
 </div>
 
-## 🧠 PHILOSOPHIE DE CODE
 
-<div align="center">
-  
-> 🌈 Explorateur d'idées nouvelles  
-> 🔮 Créateur de solutions élégantes  
-> 🎧 Développeur rythmé par la passion
->
-> *"Le code est comme une blague - s'il doit être expliqué, il n'est probablement pas bon."*
-
-</div>
-
-## 💻 ARSENAL TECHNOLOGIQUE
+## 🛠️Technologies
 
 <div align="center">
   <table>
@@ -91,55 +80,6 @@
   </table>
 </div>
 
-## 🌟 PROGRESSION TECHNIQUE
-
-<div align="center">
-  
-  ![HTML](https://progress-bar.dev/90/?title=HTML&width=250&color=e34c26)
-  ![CSS](https://progress-bar.dev/85/?title=CSS&width=250&color=264de4)
-  ![JavaScript](https://progress-bar.dev/80/?title=JavaScript&width=250&color=f0db4f)
-  ![React](https://progress-bar.dev/75/?title=React&width=250&color=61DBFB)
-  ![PHP](https://progress-bar.dev/82/?title=PHP&width=250&color=787CB5)
-  ![Laravel](https://progress-bar.dev/78/?title=Laravel&width=250&color=FF2D20)
-  ![Java](https://progress-bar.dev/70/?title=Java&width=250&color=007396)
-  ![C/C++/C#](https://progress-bar.dev/65/?title=C/C++/C%23&width=250&color=A8B9CC)
-  ![MySQL/.NET](https://progress-bar.dev/75/?title=MySQL/.NET&width=250&color=00618A)
-  
-</div>
-
-## ⋆˚✿˖° PROJETS ÉPIQUES °˖✿˚⋆
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌸 Projet Sakura</h3>
-      <img src="https://raw.githubusercontent.com/Ily-es01/Ily-es01/main/assets/project1.png" alt="Projet Sakura">
-      <p>Une application web qui transforme vos idées en univers onirique</p>
-      <a href="https://github.com/Ily-es01/sakura">👁️ Explorer</a>
-    </td>
-    <td width="50%">
-      <h3>⚡ Neo Pulse</h3>
-      <img src="https://raw.githubusercontent.com/Ily-es01/Ily-es01/main/assets/project2.png" alt="Neo Pulse">
-      <p>Visualisateur musical inspiré de l'esthétique cyberpunk</p>
-      <a href="https://github.com/Ily-es01/neopulse">👁️ Explorer</a>
-    </td>
-  </tr>
-</table>
-
-## 🌐 TRAJECTOIRE PROFESSIONNELLE
-
-```mermaid
-timeline
-    title Ma trajectoire de développeur
-    2022 : Début d'apprentissage HTML/CSS/JS
-         : Premiers projets frontend
-    2023 : Exploration PHP & Laravel
-         : Étude de Java et bases de données
-    2024 : Approfondissement React
-         : Développement de projets full stack
-    2025 : Maîtrise des technologies .NET
-         : Construction d'applications complexes
-```
 
 ## 📈 ACTIVITÉ GITHUB
 
