@@ -2,9 +2,17 @@
   
 # ⚡️ ILYES | CODE ARCHITECT ⚡️
 
-[![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F73D89&center=true&vCenter=true&width=600&lines=Bienvenue+dans+mon+laboratoire+de+code;Full+Stack+Developer;Web+%26+Software+Engineer)](https://github.com/Ily-es01)
+[![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F73D89&center=true&vCenter=true&width=600&lines=Bienvenue+dans+mon+laboratoire+de+code;Full+Stack+Developer;Web+et+Software+Engineer)](https://github.com/Ily-es01)
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Ily-es01&color=blueviolet&style=flat-square&label=VISITEURS)
+
+```
+⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
+  Créateur de mondes numériques où
+  l'art et le code fusionnent pour former
+  des expériences uniques
+⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
+```
 
 </div>
 
@@ -32,6 +40,18 @@
     █   ▀▀    ██    ▄████▄   ▀█████▀ ▀████▀   ▀███▀▀████▀    ▀█████▀   
    ▄█▄       ▄██▄                                                      
 ```
+
+## 🧠 PHILOSOPHIE DE CODE
+
+<div align="center">
+  
+> 🌈 Explorateur d'idées nouvelles  
+> 🔮 Créateur de solutions élégantes  
+> 🎧 Développeur rythmé par la passion
+>
+> *"Le code est comme une blague - s'il doit être expliqué, il n'est probablement pas bon."*
+
+</div>
 
 ## 💻 ARSENAL TECHNOLOGIQUE
 
@@ -108,14 +128,24 @@
   
 </div>
 
-## 📈 ACTIVITÉ GITHUB
+## ⋆˚✿˖° PROJETS ÉPIQUES °˖✿˚⋆
 
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ily-es01&theme=react-dark)
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Ily-es01&theme=radical&no-frame=true&row=1&column=7)
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌸 Projet Sakura</h3>
+      <img src="https://raw.githubusercontent.com/Ily-es01/Ily-es01/main/assets/project1.png" alt="Projet Sakura">
+      <p>Une application web qui transforme vos idées en univers onirique</p>
+      <a href="https://github.com/Ily-es01/sakura">👁️ Explorer</a>
+    </td>
+    <td width="50%">
+      <h3>⚡ Neo Pulse</h3>
+      <img src="https://raw.githubusercontent.com/Ily-es01/Ily-es01/main/assets/project2.png" alt="Neo Pulse">
+      <p>Visualisateur musical inspiré de l'esthétique cyberpunk</p>
+      <a href="https://github.com/Ily-es01/neopulse">👁️ Explorer</a>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 TRAJECTOIRE PROFESSIONNELLE
 
@@ -132,21 +162,33 @@ timeline
          : Construction d'applications complexes
 ```
 
-## 💭 PHILOSOPHIE DE CODE
+## 📈 ACTIVITÉ GITHUB
 
 <div align="center">
   
-> "Le code est comme une blague - s'il doit être expliqué, il n'est probablement pas bon."
-
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ily-es01&theme=react-dark)
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Ily-es01&theme=radical&no-frame=true&row=1&column=7)
 </div>
 
 ## 📬 CONNEXION QUANTIQUE
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ily-es01)
-<!-- Ajoutez d'autres réseaux sociaux au besoin -->
-
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ily-es01)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ily-es01)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ily-es01)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://Ily-es01.com)
+  
+  ```
+  ┊   ┊     ┊    ┊    ┊   ┊
+  ┊   ┊     ┊    ┊    ┊   ┊  
+  ┊   ┊     ┊    ┊    ┊   ┊    ┊
+  ┊   ┊     ┊    ┊    ┊   ┊    ┊
+  ┊   ┊┊  ┊ ┊    ┊    ┊   ┊    ┊
+  ┏━━━┛┛┗━━┛┗━━━━┻━━━┻━━━┻━━━━┛
+  ```
+  
 </div>
 
 <!-- Séparateur visuel -->
