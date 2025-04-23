@@ -9,16 +9,7 @@
 
 </div>
 
-## 📊 MES STATISTIQUES GITHUB
 
-<div align="center">
-  <a href="https://github.com/Ily-es01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ily-es01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ily-es01&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ily-es01&theme=radical)
-</div>
 
 
 ## 🛠️Technologies
